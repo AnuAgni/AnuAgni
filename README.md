@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there I am Anushka.
+Currently studying in VIT Bhopal. 
+I am a beginnner and code in C++ and python.
+Random facts:
+1) I was house captain in school.
+2) Love animals.
 <!--
 **AnuAgni/AnuAgni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
